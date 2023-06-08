@@ -1,0 +1,5 @@
+install.packages("devtools")
+install.packages("tidyverse")
+devtools::install_github("hafen/trelliscopejs")
+devtools::install_github("abresler/gdeltr2")
+install.packages("bigrquery")
